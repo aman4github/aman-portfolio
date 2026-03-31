@@ -1,0 +1,66 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Environment files (if any in future)
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Build folders (future use)
+dist/
+build/
+
+# Node (only if you ever use npm)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Env files
+.env
+.env.*
+
+# Temp files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Build output
+dist/
+build/
+
+# Node modules (future use)
+node_modules/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+ehthumbs.db
