@@ -239,7 +239,7 @@ moreBtn.addEventListener("click", function () {
     this.innerHTML = "Back";
   } else {
     // Switching back to Primary Group
-    this.innerHTML = "More";
+    this.innerHTML = 'More<i class="fa-solid fa-arrow-right"></i>';
 
     // 2. Automatically trigger the 'About' page view
     // Find the About button and click it programmatically

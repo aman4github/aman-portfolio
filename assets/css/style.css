@@ -534,6 +534,10 @@ main {
   display: none !important;
 }
 
+.navbar-item-more-button {
+  padding-left: 4px;
+}
+
 
 /*-----------------------------------*\
   #ABOUT
