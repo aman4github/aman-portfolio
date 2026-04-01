@@ -1436,6 +1436,12 @@ textarea.form-input::-webkit-resizer {
     border-radius: 20px;
   }
 
+  /* navbar */
+
+  .navbar-item-more-button {
+    padding-left: 3px;
+  }
+
   /* techstack modal */
 
   .modal-avatar-box {
@@ -1455,6 +1461,12 @@ textarea.form-input::-webkit-resizer {
 
   .avatar-box img {
     border-radius: 20px;
+  }
+
+  /* navbar */
+
+  .navbar-item-more-button {
+    padding-left: 3px;
   }
 
   /**
